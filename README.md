@@ -6,9 +6,7 @@
   <img src= "https://github.com/ANTONIO-AGIZ/Projeto---Analisando-os-Dados-do-Airbnb/blob/main/BANNER%20AGIZ.png" >
 </p>
 
-
-
-# Carlos Melo
+# Antonio Agiz
 
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
